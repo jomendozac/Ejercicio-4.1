@@ -1,1 +1,1 @@
-# Actividad-4-POO Ejercicios 4.1 y 4.2
+# Actividad-4-POO Ejercicio 4.1
